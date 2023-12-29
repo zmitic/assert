@@ -22,7 +22,7 @@
     },
     "conflict": {
         "phpstan/phpstan": "<0.12.20",
-        "vimeo/psalm": "<4.6.1 || 4.6.2"
+        "vimeo/psalm": "^5"
     },
     "autoload": {
         "psr-4": {
